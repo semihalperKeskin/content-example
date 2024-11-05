@@ -1,0 +1,5 @@
+---
+options:
+  - Catagories
+  - About
+---
